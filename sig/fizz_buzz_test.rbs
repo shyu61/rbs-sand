@@ -1,0 +1,8 @@
+# Classes
+class FizzBuzz
+  def self.run: (Integer n) -> Array[String]
+end
+
+class RubyTest
+  def test_run: -> untyped
+end
